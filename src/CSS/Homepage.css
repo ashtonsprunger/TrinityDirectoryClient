@@ -1,0 +1,20 @@
+.male {
+  color: rgb(0, 132, 255);
+}
+
+.female {
+  color: rgb(255, 0, 200);
+}
+
+.unknownGender {
+  color: rgb(0, 218, 0);
+}
+
+.last {
+  color: rgb(92, 92, 92);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
